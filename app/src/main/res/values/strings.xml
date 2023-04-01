@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Calculadora de Notas</string>
+    <string name="miscalificaciones">Mis Calificaciones</string>
+    <string name="h_yourname">Ingresa tu nombre</string>
+    <string name="misnotas">Mis Notas</string>
+    <string name="h_cl1">CL1</string>
+    <string name="h_cl2">CL2</string>
+    <string name="h_cl3">CL3</string>
+    <string name="h_sp1">SP1</string>
+    <string name="resultado">Tu nota es:</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpiar">Limpiar</string>
+
+</resources>
